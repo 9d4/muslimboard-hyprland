@@ -1,0 +1,13 @@
+window { background: transparent; }
+.mb * { color: white; font-family: "Lato", "Noto Sans", sans-serif; text-shadow: 0 1px 4px rgba(0,0,0,0.55); }
+.mb .clock { font-size: 96px; font-weight: 500; }
+.mb .meta { font-size: 12px; }
+.mb .meta image { -gtk-icon-style: symbolic; }
+.mb .small-title { font-size: 12px; font-style: italic; }
+.mb .prayer-name, .mb .prayer-time, .mb .prayer-tz { font-size: 17px; }
+.mb .prayer-time { font-weight: bold; }
+.mb .next { background: rgba(255,255,255,0.28); }
+.mb .next-eta { background: rgba(255,255,255,0.22); font-size: 12px; font-style: italic; padding: 3px 0; }
+.mb .arabic { font-family: "Amiri", "Noto Naskh Arabic", "Noto Sans Arabic", serif; font-size: 34px; }
+.mb .quote-en { font-size: 22px; font-style: italic; }
+.mb .quote-ref { font-size: 15px; font-style: italic; }

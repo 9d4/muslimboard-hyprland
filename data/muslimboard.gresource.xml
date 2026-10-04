@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/muslimboard">
+    <file>style.css</file>
+    <file>data-content-en.json</file>
+    <file>data-content-id.json</file>
+  </gresource>
+</gresources>
