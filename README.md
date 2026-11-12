@@ -1,9 +1,10 @@
 # MuslimBoard for Hyprland
-
 A lightweight (C, GTK 3) desktop widget for [Hyprland](https://hyprland.org) that shows the clock, date, Hijri date,
 prayer times with a countdown to the next one, and a rotating Quran verse or hadith, drawn
 right on your wallpaper. It is a native port of the
 [MuslimBoard browser extension](https://github.com/novalagung/muslimboard).
+
+<img width="1920" height="939" alt="preview image" src="https://github.com/user-attachments/assets/8a63fbc0-c35e-4472-8efb-738057c57d5c" />
 
 - Sits on the **bottom layer**: above your wallpaper (even when the wallpaper daemon redraws it), below every window, no bar or panel needed.
 - **Configure on the go**: right-click for a menu, click the location line to change city. No file editing.
